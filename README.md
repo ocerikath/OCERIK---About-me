@@ -44,7 +44,7 @@
 
 https://github.com/ocerikath/project_kam_rr
 
-https://github.com/ocerikath/firm_it_tech
+https://github.com/ocerikath/firm_it
 
 Один из них реализован также на **Django + Docker**.  
 В проектах использую авторизацию, работу с БД, админ-модули, API, структурированный backend и чистую архитектуру.
